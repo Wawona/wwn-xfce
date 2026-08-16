@@ -20,6 +20,6 @@ GTK apps can also run as direct Wawona clients.
 3. Prefer per-app GTK clients (native) + nested session compositor for the full
    desktop.
 4. Replace `dependencies/xfce/stub.nix` per platform; expose `xfce-*`; register.
-5. `wwn-apt` lists `xfce` `status: planned` → `approved` post-review.
+5. Port plan lists `xfce` `status: planned` → `approved` post-review.
 
 Convention: [wwn-* porting convention](https://github.com/Wawona/Wawona/blob/main/docs/2026-wwn-porting-convention.md).
